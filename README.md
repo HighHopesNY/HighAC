@@ -34,7 +34,7 @@ Following ace permission allows selected players to bypass the anticheat detecti
 
 1. Add the permission to the group you want to have bypass perms.
 
-``` add_ace group.<yourgroup> HighAC.bypass allow  ```
+``` add_ace group.<yourgroup> highac.bypass allow  ```
 
 2. Add the according player license to previous chosen group.
 
