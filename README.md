@@ -1,3 +1,4 @@
+DISCONTINUED NO UPDATES / BUG FIXES WILL COME!!! NOT SUPPORTED
 # HighAC
 HighAC is a brand-new work in progress anticheat solution for your FiveM role-playing server. It offers many unique detections and a great variety of checks to catch cheaters. Currently, HighAC is still in an alpha state, so don't expect a silver bullet from this. False positives or bugs may occur, but giving this a shot might be worth it to you. Issues and pull requests are always appreciated!
 
